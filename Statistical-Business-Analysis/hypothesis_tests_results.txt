@@ -1,0 +1,15 @@
+HYPOTHESIS TEST RESULTS
+
+1. One Sample T-Test
+H0: Mean sales = 50000
+p-value = 0.032
+Conclusion: Reject H0 (Significant)
+
+2. Independent T-Test
+p-value = 0.004
+Conclusion: Marketing level affects sales
+
+3. Pearson Correlation Test
+Correlation = 0.78
+p-value = 0.0012
+Conclusion: Strong Significant Relationship
